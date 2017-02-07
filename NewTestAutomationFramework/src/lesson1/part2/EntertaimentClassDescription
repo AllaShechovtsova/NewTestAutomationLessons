@@ -1,0 +1,25 @@
+EntertaimentClassDescription
+
+Attributes(properties):
+-entertaimentTitle
+-entertaimentCost
+-entertaimentType
+-entertaimentSize
+-entertaimentLevel
+-entertaimentGuarantee
+-entertaimentLocation 
+
+
+Actions(methods):
++priceEntertaiment	 
++securityEntertaiment
++repairsEntertaiment
++testEntertaiment
++utilizeEntertaiment
++refreshEntertaiment
++inspectionEntertaiment
++studyEntertaiment
+
+
+Mandatory Actions(getters and setters)
+

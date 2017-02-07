@@ -1,0 +1,17 @@
+MusicalInstrumentsClassDescription
+Attributes(properties):
+-instrumentName
+-instrumentKind
+-instrumentManufacturer
+-instrumentSize
+-instrumentPrice
+
+Actions(methods):
++buyInstrument
++sellInstrument
++presentInstrument
++returnInstrument
++utilizeInstrument
+
+
+Mandatory Actions(getters and setters)

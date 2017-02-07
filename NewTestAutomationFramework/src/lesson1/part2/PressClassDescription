@@ -1,0 +1,22 @@
+PressClassDescription
+
+Attributes(properties):
+-pressTitle 
+-pressCost
+-pressType
+-pressSize
+-pressKind
+-pressColor
+-pressInformation
+
+Actions(methods):
++pricePress
++securityPress
++buyPress
++readPress
++utilizePress
++changePress
++inspectionPress
++studyPress
+
+Mandatory Actions(getters and setters)

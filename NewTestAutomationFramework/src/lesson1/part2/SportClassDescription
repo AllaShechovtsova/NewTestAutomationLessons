@@ -1,0 +1,25 @@
+SportClassDescription
+
+Attributes(properties):
+private String sportTitle; 
+-sportCost;
+-sportType;
+-sportResult;
+-sportWeather;
+-sportDress;
+-sportInventory;
+-sportMark;
+-sportWeight;
+	
+
+Actions(methods):
++ratingSport
++doSport
++developSport
++interestSport
++changeSport
++inspectionSport
++studySport
+
+
+Mandatory Actions(getters and setters)

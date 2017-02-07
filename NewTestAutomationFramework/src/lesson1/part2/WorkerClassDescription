@@ -1,0 +1,23 @@
+WorkerClassDescription
+Attributes(properties):
+-workerId
+-workerName
+-workerSurname
+-workerPosition
+-workerDepartment
+-workerSalary
+-workerBossId
+
+Actions(methods):
++comeToWork
++leaveWork
++leaveCompany
++takeSickLeave
++takeDayOff
++changeDepartment
++askForSalaryRaise
++askForOneOnOne
+
+
+Mandatory Actions(getters and setters)
+
