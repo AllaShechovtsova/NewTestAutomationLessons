@@ -51,7 +51,7 @@ public class SplitIntoTwo_1 {
 
 	public static void main(String[] args) throws IOException {
 		// TODO Auto-generated method stub
-		SplitFileIntoTwo_1 myInstance=new SplitFileIntoTwo_1();
+		SplitIntoTwo_1 myInstance=new SplitIntoTwo_1();
 		
 		myInstance.numberOfLines("D://inputFile.txt", "D://outputFile1.txt", "D://outputFile2.txt");
 	}
